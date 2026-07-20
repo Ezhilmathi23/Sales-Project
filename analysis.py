@@ -1,9 +1,3 @@
-"""
-02_analysis.py
-Core Pandas analysis: cleaning, groupby, pivot tables, rolling averages.
-Run after 01_generate_data.py.
-"""
-
 import pandas as pd
 import numpy as np
 
