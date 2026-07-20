@@ -1,9 +1,3 @@
-"""
-01_generate_data.py
-Generates a synthetic retail sales dataset using NumPy + Pandas.
-Run this first — it creates data/sales_data.csv used by the other scripts.
-"""
-
 import numpy as np
 import pandas as pd
 
