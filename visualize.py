@@ -1,9 +1,3 @@
-"""
-03_visualize.py
-Matplotlib charts built from the summary CSVs produced by 02_analysis.py.
-Run after 02_analysis.py. Saves PNGs to charts/.
-"""
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
